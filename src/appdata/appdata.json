@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "price": "$1943",
+    "address": "167 Moffat Street, Evergreen, Nebraska, 4676",
+    "area": "office",
+    "tags": ["voluptate", "elit", "qui", "ipsum", "dolore", "aute"]
+  },
+  {
+    "_id": 2,
+    "price": "$3657",
+    "address": "986 Glenwood Road, Orin, Missouri, 2872",
+    "area": "stadium",
+    "tags": ["sit", "eu", "incididunt", "est", "labore", "tempor"]
+  },
+  {
+    "_id": 3,
+    "price": "$3781",
+    "address": "173 Wyckoff Avenue, Convent, Hawaii, 4175",
+    "area": "center",
+    "tags": ["est", "ipsum", "ex", "anim", "minim", "ut"]
+  },
+  {
+    "_id": 4,
+    "price": "$1461",
+    "address": "421 Ashland Place, Marbury, Tennessee, 7266",
+    "area": "office",
+    "tags": ["fugiat", "cillum", "commodo", "quis", "ullamco", "irure"]
+  },
+  {
+    "_id": 5,
+    "price": "$3165",
+    "address": "885 Miller Place, Diaperville, New Jersey, 3318",
+    "area": "stadium",
+    "tags": ["laborum", "ipsum", "ea", "dolore", "dolore", "tempor"]
+  }
+]
