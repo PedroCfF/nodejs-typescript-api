@@ -3,7 +3,7 @@ import apartmentsRouter from "./routes/apartmentsRouter";
 
 const app = express();
 
-const port = 3000;
+const port = process.env.port || 3000;
 
 app.listen(port, () => {
   console.log("App listening on port " + port);
